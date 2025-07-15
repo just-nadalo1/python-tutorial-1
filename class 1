@@ -74,6 +74,17 @@ Python 3.12+	Latest	Performance improvements
 
 ⚠️ Python 2 and Python 3 are not fully compatible. Always use Python 3 for modern development.
 
+Where can we see Python in action?
+We see it every day and almost everywhere. It's used extensively to implement complex Internet services like search engines, cloud storage and tools, social media and so on. Whenever you use any of these services, you are actually very close to Python, although you wouldn't know it.
+
+Many developing tools are implemented in Python. More and more everyday-use applications are being written in Python. Lots of scientists have abandoned expensive proprietary tools and switched to Python. Lots of IT project testers have started using Python to carry out repeatable test procedures.
+
+Cython is one of a possible number of solutions to the most painful of Python's traits – the lack of efficiency. Large and complex mathematical calculations may be easily coded in Python (much easier than in "C" or any other traditional language), but the resulting code execution may be extremely time-consuming.
+
+A function (in this context) is a separate part of the computer code able to:
+
+cause some effect (e.g., send text to the terminal, create a file, draw an image, play a sound, etc.); this is something completely unheard of in the world of mathematics;
+evaluate a value (e.g., the square root of a value or the length of a given text) and return it as the function's result; this is what makes Python functions the relatives of mathematical concepts.
 🧪 Activities / Quiz
 What is the difference between compilation and interpretation?
 
