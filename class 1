@@ -1,0 +1,95 @@
+🧑🏽‍🏫 MODULE: Fundamentals of Computer Programming (Using Python)
+🔹 1. How Computers Work (in Relation to Programming)
+When you write code, it eventually controls what your computer does — but how?
+
+A computer has hardware (like CPU, memory, etc.) and software (like your browser or games).
+
+The CPU (Central Processing Unit) executes instructions line-by-line.
+
+These instructions come from programs, written in a language the computer understands: machine language (binary).
+
+But humans don’t write in 0s and 1s — we use programming languages like Python, C, or Java.
+
+🔹 2. What Is a Program?
+A program is a set of instructions given to a computer to perform a task.
+
+These instructions are written in a programming language (e.g., Python).
+
+The computer doesn’t understand high-level languages directly — it needs a translator.
+
+🔹 3. How Programming Languages Are Defined
+A programming language is made up of:
+
+Component	Description
+Syntax	The rules for writing valid code (e.g., print("Hello"))
+Semantics	The meaning of each instruction (e.g., print means "display text")
+Grammar	The structure that defines valid statements (like grammar in English)
+
+Languages are designed with a compiler or interpreter that translates them for the computer.
+
+🔄 4. Compilation vs Interpretation
+Feature	Compilation	Interpretation
+Translator type	Compiler	Interpreter
+Example language	C, C++	Python, JavaScript
+When code runs?	Translates whole program before running	Translates line-by-line during running
+Speed	Faster (once compiled)	Slower (runs live)
+Error handling	All errors shown at once	Stops on first error
+
+🔹 5. What Is Python?
+Python is a high-level, general-purpose programming language.
+
+Created by Guido van Rossum in the 1990s.
+
+Emphasizes readability, simplicity, and versatility.
+
+Common uses:
+
+Web development
+
+Data science
+
+Machine learning
+
+Automation
+
+Game development
+
+🆚 6. Python Compared to Other Languages
+Language	Use Case	Type	Pros
+Python	General-purpose	Interpreted	Easy to learn, popular
+Java	Web + Enterprise	Compiled (to bytecode)	Cross-platform, strict
+C	Systems Programming	Compiled	Fast, close to hardware
+JavaScript	Web apps	Interpreted	Browser-native
+C++	Games, software	Compiled	Fast + OOP
+
+🔑 Python's advantage: beginner-friendly, huge community, and powerful libraries.
+
+🔢 7. Python Versions
+Version	Year	Features
+Python 2.x	2000	Legacy version, no longer supported
+Python 3.x	2008 – now	Actively maintained, modern features
+Python 3.6+	2016+	f-strings, better typing
+Python 3.10+	2021+	match-case, structural pattern matching
+Python 3.12+	Latest	Performance improvements
+
+⚠️ Python 2 and Python 3 are not fully compatible. Always use Python 3 for modern development.
+
+🧪 Activities / Quiz
+What is the difference between compilation and interpretation?
+
+Which version of Python is currently supported?
+
+Name two features that make Python beginner-friendly.
+
+True or False: Python can be used for building websites and games.
+
+Fill in the blanks: Python is an _____ language that uses an ________ to run programs.
+
+🎯 Summary
+Computers only understand binary, so programming languages must be translated.
+
+There are compiled and interpreted languages.
+
+Python is interpreted, powerful, and easy to learn.
+
+Always use Python 3.x (not 2.x) today.
