@@ -1,0 +1,36 @@
+syntax of fuctions( in other word the way u are supposed to write functions)
+function_name(arguments)
+
+arguments can either be strings, integers and floats
+
+A literal is data whose values are determined by the literal itself.
+
+the exponentiation operator uses right-sided binding.
+
+Priority	Operator	
+1	**	
+2	+, - (note: unary operators located next to the right of the power operator bind more strongly)	unary
+3	*, /, //, %	
+4	+, -	binary
+
+ A unary operator is an operator with only one operand, e.g., -1, or +3.
+
+ A binary operator is an operator with two operands, e.g., 4 + 5, or 12 % 5
+ Some operators act before others – the hierarchy of priorities:
+
+the ** operator (exponentiation) has the highest priority;
+then the unary + and - (note: a unary operator to the right of the exponentiation operator binds more strongly, for example: 4 ** -1 equals 0.25)
+then *, /, //, and %;
+and, finally, the lowest priority: the binary + and -.
+7. Subexpressions in parentheses are always calculated first, e.g., 15 - 1 * (5 * (1 + 2)) = 0.
+
+8. The exponentiation operator uses right-sided binding, e.g., 2 ** 2 ** 3 = 256.
+
+practice codes
+print("My name is", "Python.", end=" ")
+print("Monty Python.")
+print("My", "name", "is", "Monty", "Python.", sep="&")
+
+
+
+what is d difference between end and sep 
